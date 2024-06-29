@@ -1,0 +1,33 @@
+hide Modal------->
+save to local ----------------------->
+counter--------------------->
+
+// if (localStorage.getItem("taskarr")) {
+//     taskarr = JSON.parse(localStorage.getItem("taskarr"));
+//     for (var i = 0; i < taskarr.length; i++) {
+//       displayTask(i)
+//     }
+//   }
+
+
+//    if (addbtn.innerHTML.trim()=="Add Task"){
+//     var task ={
+//         status:taskstatusinput.value,
+//         category:taskcategoryinput.value,
+//         title:tasktitleinput.value,
+//         description:taskdescriptioninput.value,
+//     };
+//    taskarr.push(task)
+// // savetolocal()
+//    displayTask(taskarr.length -1)
+// //    reset()
+//    resetInputs();}
+//    else if(addbtn.innerHTML.trim()=="update the task"){
+//     update(updatedIndex);}}
+
+// function resetInputs() {
+//     taskstatusinput.value = "nextUp";
+//     taskcategoryinput.value = "education";
+//     tasktitleinput.value = "";
+//     taskdescriptioninput.value = "";
+// }
